@@ -1,3 +1,1 @@
-# bd_tcc_reciclagem
-# bd_tcc_reciclagem
-# bd_tcc_reciclagem
+Banco de dados projeto Coleta Seletiva TCC
